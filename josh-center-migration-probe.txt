@@ -1,2 +1,0 @@
-Center migration verification: libc
-Direction: kernel to subtree
